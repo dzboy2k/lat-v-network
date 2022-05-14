@@ -52,3 +52,25 @@ feather icon
 
 rafce (react)
 ```
+
+### 02 - Authentication
+```
+POSTMAN
+http://localhost:5000/api/register POST
+  {
+    fullname: 'Le Anh',
+    username: 'user01',
+    email: 'user01@gmail.com',
+    password: '123456',
+    gender: 'male'
+  }
+  {
+    "fullname": "Le Anh", 
+    "username": "USER 02", 
+    "email": "user02@gmail.com", 
+    "password": "123456", 
+    "gender": "female"
+  }
+http://localhost:5000/api/refresh_token GET
+  -> Cookies (Expires)
+```
