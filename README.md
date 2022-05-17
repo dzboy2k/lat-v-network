@@ -79,3 +79,5 @@ http://localhost:5000/api/refresh_token GET
 ```
 rafce
 ```
+
+### 04 - Refresh Token
