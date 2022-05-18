@@ -132,7 +132,7 @@ const Register = () => {
         </button>
 
         <p className="my-2">
-          Already have an account? <Link to="/login" style={{color: "crimson"}}>Login Now</Link>
+          Already have an account? <Link to="/" style={{color: "crimson"}}>Login Now</Link>
         </p>
       </form>
     </div>

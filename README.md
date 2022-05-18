@@ -86,3 +86,9 @@ rafce
 ```
 regex email js
 ```
+
+### 06 - Header - Logout
+```
+bootstrap 4.5 => navbar
+icon => https://fonts.google.com/icons
+```
