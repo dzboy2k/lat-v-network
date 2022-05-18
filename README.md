@@ -81,3 +81,8 @@ rafce
 ```
 
 ### 04 - Refresh Token
+
+### 05 - Register
+```
+regex email js
+```
