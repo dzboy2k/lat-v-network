@@ -92,3 +92,5 @@ regex email js
 bootstrap 4.5 => navbar
 icon => https://fonts.google.com/icons
 ```
+
+### 07 - Search - Header
