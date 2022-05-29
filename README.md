@@ -121,3 +121,5 @@ cloudinary
     cloud-name
     API Base URL
 ```
+
+### 11 - Follow #1
