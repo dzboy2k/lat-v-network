@@ -98,3 +98,26 @@ icon => https://fonts.google.com/icons
 ### 08 - User Info Profile
 
 ### 09 - Edit Profile #1
+
+### 10 - Edit Profile #2
+```
+lorem ipsum
+
+cloudinary
+  Settings => Upload => Upload presets:
+    Add upload preset:
+      Signing Mode: Unsigned
+      Folder: v-network
+    
+      Upload Manipulations:
+        Incoming Transformation: => Edit:
+          Width: 700
+          Mode: Fit
+        => OK
+    => Save
+
+  upload-preset
+  Dashboard
+    cloud-name
+    API Base URL
+```
